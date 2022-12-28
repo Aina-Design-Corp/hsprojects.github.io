@@ -1,4 +1,2 @@
 * Hawaii State Island Project Listing
-  > Collaborative projects
-
-
+  >  Participatory problem solving of social and environmental issues that address real world problems while enlisting the talents of displaced and disadvantaged communities.
