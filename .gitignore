@@ -40,6 +40,7 @@ build/Release
 
 # Dev Folders
 Flatfile-mokunet/
+Transpose-services/
 
 # Dependency directories
 node_modules/
