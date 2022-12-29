@@ -1,6 +1,6 @@
 {
     "includes": ["common.json"],
-    "deliverables": [
+    "specifications": [
       {
         "name": "HTML5-ProjectDocuments",
         "context": {"idref": "html"},
